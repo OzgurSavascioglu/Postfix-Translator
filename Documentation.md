@@ -1,6 +1,13 @@
-# Postfix-Translator
+﻿
+**CMPE 230**
 
-**CMPE 230 Spring 2024 Project 2**
+**HW2**
+
+**2022400366**
+
+**2016400396**
+
+**Spring 2024**
 
 **Purpose**  
 The project aims to create a program that gets a postfix expression as an input and creates the corresponding machine code outputs in RISC-V Assembly format. The program gets the input tokens that are separated by a bank character with a maximum total length of 256 characters. We assumed that the provided expression is syntactically correct and that all values and results are at most 12 bits(signed representation). The program assumes that the input integers are positive. On the other hand, the results of calculations can be negative.
